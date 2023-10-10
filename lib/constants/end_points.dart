@@ -1,0 +1,12 @@
+const String baseURL = "https://routeme-2022.herokuapp.com/api/";
+const String login = "loginMobile";
+const String verify = "verifyCode";
+const String resetPassword = "resetPassword";
+const String vendorOrders = "getVendorOrders";
+const String pickup = "requestPickup";
+const String branches = "getBranches";
+const String addBranch = "addBranch";
+const String tasks = "getDriverTasks";
+const String getPreviousTasks = "getPreviousTasks";
+const String taskStatus = "taskStatus";
+const String updateUserStatus = "updateUserStatus";
